@@ -2,8 +2,8 @@
 Peikai Chen<sup>1,4*#</sup>, Zhijia Tan<sup>1,3#</sup>, Anmei Qiu<sup>1</sup>, Shijie Yin<sup>1</sup>, Yapeng Zhou<sup>1</sup>,  Zhongxin Dong<sup>1</sup>, Yan Qiu<sup>1</sup>, Jichun Xu<sup>1</sup>, Kangsen Li<sup>1</sup>,  Lina Dong<sup>1</sup>, Hiu Tung Shek<sup>1</sup>, Jingwen Liu<sup>1</sup>, Eric H. K. Yeung<sup>2</sup>, Bo Gao4, Kenneth Man Chee Cheung<sup>1,3</sup>, Michael Kai-Tsun To<sup>1,3*</sup>
 
 
-<sup>1</sup>Department of Orthopedics and Traumatology, University of Hong Kong-Shenzhen Hospital (HKU-SZH), Shenzhen, China;
-<sup>2</sup>Department of Physiotherapy, University of Hong Kong-Shenzhen Hospital (HKU-SZH), Shenzhen, China;
+<sup>1</sup>Department of Orthopedics and Traumatology, University of Hong Kong-Shenzhen Hospital (HKU-SZH), Shenzhen, Guangdong 518053, China;
+<sup>2</sup>Department of Physiotherapy, University of Hong Kong-Shenzhen Hospital (HKU-SZH), Shenzhen, Guangdong 518053, China;
 <sup>3</sup>Department of Orthopedics and Traumatology, The University of Hong Kong, Hong Kong;
 <sup>4</sup>School of Biomedical Sciences, The University of Hong Kong, Hong Kong.
 
