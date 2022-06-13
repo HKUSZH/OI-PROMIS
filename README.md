@@ -1,5 +1,5 @@
 # Patient-reported Outcomes in a Chinese Cohort of Osteogenesis Imperfecta Unveil Psycho-physical Stratifications Associated with Clinical Manifestations
-Peikai Chen<sup>1,4*#</sup>, Zhijia Tan<sup>1,3#</sup>, Yapeng Zhou<sup>1†</sup>, Shijie Yin<sup>1†</sup>, Zhongxin Dong<sup>1†</sup>, Yan Qiu<sup>1†</sup>, Jichun Xu<sup>1</sup>, Kangsen Li<sup>1</sup>, Anmei Qiu<sup>1</sup>, Lina Dong<sup>1</sup>, Hiu Tung Shek<sup>1</sup>, Jingwen Liu<sup>1</sup>, Eric H. K. Yeung<sup>2</sup>, Bo Gao4, Kenneth Man Chee Cheung<sup>1,3</sup>, Michael Kai-Tsun To<sup>1,3*</sup>
+Peikai Chen<sup>1,4*#</sup>, Zhijia Tan<sup>1,3#</sup>, Anmei Qiu<sup>1</sup>, Shijie Yin<sup>1</sup>, Yapeng Zhou<sup>1</sup>,  Zhongxin Dong<sup>1</sup>, Yan Qiu<sup>1</sup>, Jichun Xu<sup>1</sup>, Kangsen Li<sup>1</sup>,  Lina Dong<sup>1</sup>, Hiu Tung Shek<sup>1</sup>, Jingwen Liu<sup>1</sup>, Eric H. K. Yeung<sup>2</sup>, Bo Gao4, Kenneth Man Chee Cheung<sup>1,3</sup>, Michael Kai-Tsun To<sup>1,3*</sup>
 
 
 <sup>1</sup>Department of Orthopedics and Traumatology, University of Hong Kong-Shenzhen Hospital (HKU-SZH), Shenzhen, China;
@@ -8,7 +8,6 @@ Peikai Chen<sup>1,4*#</sup>, Zhijia Tan<sup>1,3#</sup>, Yapeng Zhou<sup>1†</su
 <sup>4</sup>School of Biomedical Sciences, The University of Hong Kong, Hong Kong.
 
 \# these authors contributed equally<br>
-† these authors contributed equally<br>
 *corresponding authors
 
 
@@ -33,3 +32,11 @@ Phone: +86-755-8691-3333-5284 <br>
 Peikai CHEN (PhD) <br>
 Email:pkchen at hku-szh.org <br>
 Phone: +86-755-8691-3333-5284 <br>
+
+# Funding
+ This work was supported by the Shenzhen “Key Medical Discipline Construction Fund”
+ (No. SZXK077) to M.K.T.T.; and the Hong Kong Health and Medical Research Fund
+ (No.07181676) to B.G. (PA) and M.K.T.T. (co-PA). PKC (No. 20210830100C) and
+ ZJT (No. 20210802658C) were supported by the “Shenzhen Peacock Plan”. Part of this
+ work was supported by the Guangdong Basic and Applied Basic Research Fund (No.
+ 2214050010625).
